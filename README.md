@@ -8,7 +8,9 @@ Create : Post
 新增一筆 iris data
 
 Read : Get
-取得 iris data
+1. 取得前幾筆 iris data 
+2. 隨機取得數筆 iris data
+3. 隨機取得數筆 iris data (非同步)
 
 Update : Put
 更新一筆 iris data (指定 id)
